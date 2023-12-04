@@ -3,8 +3,8 @@ import banner from "./../../assets/img/Melodica bannière.png";
 
 const Card = () => {
   return (
-    <div class="flex-col md:flex md:justify-around">
-      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black justify-self-center m-auto">
+    <div class=" md:flex md:justify-around">
+      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black m-auto">
         <a
           target="_blank"
           href="https://oclock.io/formations/developpeur-web"
@@ -43,7 +43,7 @@ const Card = () => {
           </a>
         </div>
       </div>
-      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black justify-self-center m-auto">
+      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black m-auto">
         <a href="#!">
           <img class="rounded-t-lg" src={banner} alt="" />
         </a>

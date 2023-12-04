@@ -38,13 +38,13 @@ const ContactForm = () => {
         class="grid grid-cols-4 gap-6 items-stretch mt-10 text-black font-sans"
       >
         <input
-          class="rounded-md p-2 h-10 col-span-4 col-start-2 lg:w-1/5 w-2/5"
+          class="rounded-md p-2 h-10 col-span-4 col-start-2 lg:w-1/5 w-3/5"
           type="text"
           placeholder="Entrez votre nom"
           name="user_name"
         />{" "}
         <input
-          class="rounded-md p-2 h-10 col-span-4 col-start-2 lg:w-1/5 w-2/5"
+          class="rounded-md p-2 h-10 col-span-4 col-start-2 lg:w-1/5 w-3/5"
           type="email"
           placeholder="Entrez votre Email"
           name="user_email"
@@ -61,7 +61,7 @@ const ContactForm = () => {
           //   onChange={handleChange}
         />
         <button
-          class="rounded-md md:text-2xl p-3 bg-[#f04444] w-3/5 self-end text-white lg:row-start row-start-4 col-start-2"
+          class="rounded-md text-xl md:text-2xl p-3 bg-[#f04444] w-4/5 self-end text-white lg:row-start row-start-4 col-start-2"
           type="submit "
         >
           Envoyer
