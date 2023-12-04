@@ -21,10 +21,11 @@ const Card = () => {
             École O'clock : <span class="italic">Formation DWWM</span>
           </h5>
           <p class="mb-4 lg:text-lg text-neutral-600 dark:text-neutral-200">
-            2023 - Formation DWWM avec l'école O'clock. Une super avanture! Nous
+            2023 - Formation DWWM avec l'école O'clock. Une super aventure! Nous
             nous sommes formés en HTML, CSS, PHP, JS pendant 4 mois puis un mois
-            de spécialisation avec REACT et le Front pour ma part! Dernière
-            étape, obtenir mon diplôe en janvier à Paris
+            de spécialisation avec REACT et le Front pour ma part! Le dernier
+            mois comprenait l'apothéose, un projet mené en équipe. Dernière
+            étape, obtenir mon diplôme en janvier à Paris.
           </p>
           <a
             target="_blank"
@@ -52,10 +53,9 @@ const Card = () => {
           </h5>
           <p class="mb-4 lg:text-lg  text-neutral-600 dark:text-neutral-200">
             Durant le dernier mois de formation, nous devions développer un
-            projet de A à Z. Nous souhaition créer une application utile et
-            durant nos réfléxions Mélodica est née. Une application pour
-            faciliter le lien et le contact entre artistes et organisateurs
-            d'évènements! Projet toujours en cours de dévelopement.
+            projet de A à Z en équipe. Mélodica, Une application pour faciliter
+            le lien et le contact entre artistes et organisateurs d'évènements!
+            Projet toujours en cours de développement.
           </p>
           <p
             class="inline-block rounded bg-primary px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white "
