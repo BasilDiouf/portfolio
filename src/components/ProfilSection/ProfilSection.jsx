@@ -43,12 +43,12 @@ const ProfilSection = () => {
       <h2 class="font-sans text-5xl font-black p-5">QUI JE SUIS ?</h2>
       <p class="text-lg font-poppins text-color-title lg:w-2/5 sm:4/5 p-5 mb-20">
         Je m'appelle Basil et je suis developpeur Front-end junior. J'ai suivi
-        le DWWM chez O-clock spécialisation React et j'ai adoré apprendre à
-        coder! Aujourd'hui je continue à me former en codant, codant et codant.
-        Nous continuons à travailler sur notre projet d'apothéose et ainsi qu'un
-        autre sur nextjs avec un ami developpeur Back-end (Node.js). Je suis en
-        recherche active d'un job et préssé d'intégrer une nouvelle équipe!
-        N'hésitez pas à me contacter ! À bientôt !
+        le DWWM chez O-clock spécialisation React. Aujourd'hui je continue à me
+        former en codant, codant et codant. Nous continuons à travailler sur
+        notre projet d'apothéose et ainsi qu'un autre sur nextjs avec un ami
+        developpeur Back-end (Node.js). Je suis en recherche active d'un job et
+        préssé d'intégrer une nouvelle équipe! N'hésitez pas à me contacter ! À
+        bientôt !
       </p>
     </div>
   );
