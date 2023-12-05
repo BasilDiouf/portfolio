@@ -7,7 +7,7 @@ const Skills = () => {
         LES TECHNOLOGIES QUE J'UTILISE
       </h2>
       <div class="bg-[#2e2e2e] pt-5 pb-5 mt-2 mb-12 -rotate-2 translate-y-10">
-        <ul class="flex justify-evenly md:text-3xl list-disc">
+        <ul class="flex justify-evenly text-xs md:text-3xl list-disc">
           <li>REACTJS</li>
           <li>REDUX</li>
           <li>TYPESCRIPT</li>
@@ -16,7 +16,7 @@ const Skills = () => {
         </ul>
       </div>
       <div class="bg-[#f04444] pt-5 pb-5 mt-2 mb-12 rotate-2 -translate-y-20">
-        <ul class="flex justify-evenly md:text-3xl list-disc">
+        <ul class="flex justify-evenly text-xs md:text-3xl list-disc">
           <li>REACTJS</li>
           <li>REDUX</li>
           <li>TYPESCRIPT</li>
