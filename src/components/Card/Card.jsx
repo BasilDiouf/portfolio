@@ -3,8 +3,8 @@ import banner from "./../../assets/img/Melodica bannière.png";
 
 const Card = () => {
   return (
-    <div class=" md:flex md:justify-around">
-      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black m-auto">
+    <div class=" md:flex md:justify-around box-content">
+      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black m-auto mb-10 md:mb-0 md:p-0">
         <a
           target="_blank"
           href="https://oclock.io/formations/developpeur-web"
@@ -16,7 +16,7 @@ const Card = () => {
             alt=""
           />
         </a>
-        <div class="p-6">
+        <div>
           <h5 class="mb-3 text-2xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
             École O'clock : <span class="italic">Formation DWWM</span>
           </h5>
@@ -43,7 +43,7 @@ const Card = () => {
           </a>
         </div>
       </div>
-      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black m-auto">
+      <div class="block rounded-lg shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] w-4/5 md:w-2/6 bg-black m-auto mb-10 md:mb-0 md:p-0">
         <a href="#!">
           <img class="rounded-t-lg" src={banner} alt="" />
         </a>

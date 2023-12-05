@@ -64,7 +64,7 @@ const ContactForm = () => {
           class="rounded-md text-xl md:text-2xl p-3 bg-[#f04444] w-4/5 self-end text-white lg:row-start row-start-4 col-start-2"
           type="submit "
         >
-          Envoyer
+          Send
         </button>
       </form>
     </div>

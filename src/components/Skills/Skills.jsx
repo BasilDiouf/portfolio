@@ -2,8 +2,8 @@ import React from "react";
 
 const Skills = () => {
   return (
-    <div class="relative w-screen mt-5 mb-40">
-      <h2 class="text-white font-sans md:text-2xl text-bold pl-40 mb-5 text-center">
+    <div class="relative w-screen mt-5 md:mb-40">
+      <h2 class="text-white font-sans md:text-2xl text-bold  mb-5 text-center">
         LES TECHNOLOGIES QUE J'UTILISE
       </h2>
       <div class="bg-[#2e2e2e] pt-5 pb-5 mt-2 mb-12 -rotate-2 translate-y-10">
