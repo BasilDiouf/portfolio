@@ -83,7 +83,7 @@ const Card = () => {
               aux utilisateurs d'entrer leur "MOOD" du moment afin de le
               partager avec les autres. Les "MOOD" seront enregistrés sur leur
               comptes et formeront une sorte de frise chronologiques. Le projets
-              est encore en cours. Codé en React et NodeJS, Epress et Sequelize
+              est encore en cours. Codé en React et NodeJS, Epress et Sequelize.
             </p>
             <p
               class="inline-block rounded bg-primary px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white "
